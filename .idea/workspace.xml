@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26a63e56-cc89-46d2-9407-db6271da836a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MasterSchool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.idea/Python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE101/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE101/masterlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE101/sessions/12.07.2024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE101/sessions/15.07.2024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE101/turtle/main.turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Nested Structures/nested.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/Canada.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/Spain.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/United States.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/alert-three-times.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/alert.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/chapter-assessment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/double-alert.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/double-ringtone.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/info.new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/ringtone.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/sounds-multiply.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_APR.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_AUG.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_DEC.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_FEB.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_JAN.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_JUL.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_JUN.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_MAR.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_MAY.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_NOV.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_OCT.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/Chapter Assessment - writing files/timesheet_SEP.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/SP500.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/baseball.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/baseball_copy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/cities.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/grades.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/olympic-medals-copy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/olympic-medals-n.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/olympic-medals-short.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/olympic-medals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/olympic-medals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/pdf/resume-copy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/pdf/resume-page-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/pdf/resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/pdf/work-with-pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/sample-copy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/sample.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/spain-medals.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/Working with files/user-file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/code-splitting/data/prompts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/code-splitting/groceries.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/code-splitting/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/code-splitting/methods/file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/academy/code-splitting/methods/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/Student-with-grades.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/caesar_cipher_decrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/ceasar_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/encrypted_book.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/goldbachs-conjecture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/logfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/config/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/config/validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/cli_commands_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/crud/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/crud/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/crud/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/crud/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/database/storage_csv_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/database/storage_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/database/storage_json_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/mix/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/mix/movie_random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/mix/movie_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/mix/movies_filtered.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/mix/movies_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/mix/stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/user_input_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/utility/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/functions/utility/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/movies/movie_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/prime-numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/print_triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/romeo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/romeo_and_juliet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/stick_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/substitution_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/summer-time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/data/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/data/ships_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/func/search_ship.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/func/ships_by_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/func/show_countries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/func/top_countries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/histogram/func_speed_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/map/func_draw_map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/SE102/codio/titanic/titanic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/jonas/import_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/jonas/libs/add_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/jonas/libs/square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jhKaHth6pnmzAEPq1mFpVSC3Jg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.add_squares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caesar_cipher_decrypt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ceasar_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database_crud.executor&quot;: &quot;Run&quot;,
+    &quot;Python.draw_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.func_draw_map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.import_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.logfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stick_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.substitution_cipher.executor&quot;: &quot;Run&quot;,
+    &quot;Python.titanic.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Development/MasterSchool&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Development\MasterSchool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Development\MasterSchool\Python\SE102\codio\movies\functions" />
+      <recent name="C:\Development\MasterSchool\Python\SE102\codio\movies\database" />
+      <recent name="C:\Development\MasterSchool\Python" />
+      <recent name="C:\Development\MasterSchool\Python\SE102\codio\titanic\func" />
+      <recent name="C:\Development\MasterSchool\Python\SE102\codio\titanic\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MasterSchool" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Development\MasterSchool\Python\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a63e56-cc89-46d2-9407-db6271da836a" name="Changes" comment="" />
+      <created>1721833931805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721833931805</updated>
+    </task>
+    <servers />
+  </component>
+</project>
