@@ -19,7 +19,7 @@ class RateLimiter:
             token_generator=None
     ):
         """
-
+        Inits the rate-limiter bucket. Starts a Timer to refill the bucket.
         :param max_tokens: The maximum number of tokens in the bucket.
         :param rate: The number of tokens created in each interval.
         :param interval: The interval in which tokens are generated.
